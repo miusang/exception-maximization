@@ -1,4 +1,3 @@
-
 The implement of the EM algorithm based on two-dimensional data.
 (1)samples:
 	30 samples from normal distribution 1.
